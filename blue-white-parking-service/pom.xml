@@ -66,5 +66,6 @@
 
 	<modules>
 		<module>config-service</module>
+		<module>gateway-service</module>
 	</modules>
 </project>
